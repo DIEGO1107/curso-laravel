@@ -26,7 +26,7 @@ class UserController extends Controller
 
     }
 
-
+ //mundo cruel
     public function show(user $user)
     {
 
